@@ -3,5 +3,6 @@
 .holder {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly; /* Ensures items are evenly distributed with equal space around them */
 }
+
